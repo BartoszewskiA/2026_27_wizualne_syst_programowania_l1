@@ -1,0 +1,17 @@
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\bin\Debug\net10.0-windows\lab04p01-grakolory.exe
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\bin\Debug\net10.0-windows\lab04p01-grakolory.deps.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\bin\Debug\net10.0-windows\lab04p01-grakolory.runtimeconfig.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\bin\Debug\net10.0-windows\lab04p01-grakolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\bin\Debug\net10.0-windows\lab04p01-grakolory.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01_grakolory.Form1.resources
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.csproj.GenerateResource.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.GeneratedMSBuildEditorConfig.editorconfig
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.AssemblyInfoInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.AssemblyInfo.cs
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.csproj.CoreCompileInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\refint\lab04p01-grakolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01-grakolory.genruntimeconfig.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\ref\lab04p01-grakolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab04p01-grakolory\lab04p01-grakolory\obj\Debug\net10.0-windows\lab04p01.968039A5.Up2Date

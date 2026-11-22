@@ -1,0 +1,17 @@
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\bin\Debug\net10.0-windows\lab05-kasyno.exe
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\bin\Debug\net10.0-windows\lab05-kasyno.deps.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\bin\Debug\net10.0-windows\lab05-kasyno.runtimeconfig.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\bin\Debug\net10.0-windows\lab05-kasyno.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\bin\Debug\net10.0-windows\lab05-kasyno.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05_kasyno.Form1.resources
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.csproj.GenerateResource.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.GeneratedMSBuildEditorConfig.editorconfig
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.AssemblyInfoInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.AssemblyInfo.cs
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.csproj.CoreCompileInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\refint\lab05-kasyno.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-kasyno.genruntimeconfig.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\ref\lab05-kasyno.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_l1\lab05-kasyno\lab05-kasyno\obj\Debug\net10.0-windows\lab05-ka.55676BB2.Up2Date

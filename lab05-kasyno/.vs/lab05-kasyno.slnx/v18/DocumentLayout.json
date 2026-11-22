@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB66DB72-15AD-4866-A26F-E3AAB3509638}|lab05-kasyno\\lab05-kasyno.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\lab05-kasyno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB66DB72-15AD-4866-A26F-E3AAB3509638}|lab05-kasyno\\lab05-kasyno.csproj|solutionrelative:lab05-kasyno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB66DB72-15AD-4866-A26F-E3AAB3509638}|lab05-kasyno\\lab05-kasyno.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\lab05-kasyno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB66DB72-15AD-4866-A26F-E3AAB3509638}|lab05-kasyno\\lab05-kasyno.csproj|solutionrelative:lab05-kasyno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\lab05-kasyno\\Form1.cs",
+              "RelativeDocumentMoniker": "lab05-kasyno\\Form1.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\lab05-kasyno\\Form1.cs",
+              "RelativeToolTip": "lab05-kasyno\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:34:17.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\lab05-kasyno\\Form1.cs",
+              "RelativeDocumentMoniker": "lab05-kasyno\\Form1.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_l1\\lab05-kasyno\\lab05-kasyno\\Form1.cs [Projekt]",
+              "RelativeToolTip": "lab05-kasyno\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:27:12.038Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
